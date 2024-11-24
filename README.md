@@ -3,6 +3,10 @@
 ## Description:
 This repository contains a comprehensive analysis of police killings in the US from 2015 to 2017. By combining data on individual fatalities with state demographics and socio-economic indicators, we delve into patterns, correlations, and insights related to these tragic incidents.
 
+![Police Vehicle](https://github.com/MariosAvraam/Fatal_Force/blob/main/police_vehicle.jpg?raw=true)
+
+https://github.com/MariosAvraam/Fatal_Force/blob/main/police_vehicle.jpg?raw=true
+
 ## Contents:
 1. **Data Cleaning and Preprocessing** - Ensuring data consistency, handling missing values, and preparing the data for analysis.
 2. **Exploratory Data Analysis (EDA)** - Understanding data distributions, patterns, and relationships through various visualizations.
