@@ -5,8 +5,6 @@ This repository contains a comprehensive analysis of police killings in the US f
 
 ![Police Vehicle](https://github.com/MariosAvraam/Fatal_Force/blob/main/police_vehicle.jpg?raw=true)
 
-https://github.com/MariosAvraam/Fatal_Force/blob/main/police_vehicle.jpg?raw=true
-
 ## Contents:
 1. **Data Cleaning and Preprocessing** - Ensuring data consistency, handling missing values, and preparing the data for analysis.
 2. **Exploratory Data Analysis (EDA)** - Understanding data distributions, patterns, and relationships through various visualizations.
